@@ -27,8 +27,6 @@ while True:
         if area > 100:
             #cv2.drawContours(roi, [cnt], -1, (0, 255, 0), 2)
             x, y, w, h = cv2.boundingRect(cnt)
-
-
             detections.append([x, y, w, h])
 
     # 2. Object Tracking
