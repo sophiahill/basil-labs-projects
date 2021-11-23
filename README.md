@@ -1,4 +1,4 @@
-# Basil Labs projects
+# (some) Basil Labs projects
 
 All of these files contain code from a project I worked on as an intern at Basil Labs. 
 
